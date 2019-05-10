@@ -12,3 +12,4 @@ inicio
     escrever "O valor de cada parcela será de: " , valor_das_parcelas
 fim
 
+   
