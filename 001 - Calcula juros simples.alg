@@ -2,7 +2,7 @@ inicio
     variavel real valor_do_emprestimo , quantidade_de_parcelas , valor_dos_juros , valor_total_da_divida , valor_das_parcelas
     escrever "Digite o valor do empréstimo: "
     ler valor_do_emprestimo
-    escrever "Digite a quantidade de parcelas: "
+    escrever "Digite a quantidade de parcelas: "     
     ler quantidade_de_parcelas
     escrever "Digite o valor dos juros em porcentagem mas sem o %: "
     ler valor_dos_juros
